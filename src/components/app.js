@@ -16,7 +16,7 @@ function App() {
     <BrowserRouter>
       <Header />
       <Switch>
-        <Route path="/home">
+        <Route path="/">
           <HomePage />
         </Route>
 

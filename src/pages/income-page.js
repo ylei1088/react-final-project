@@ -1,7 +1,8 @@
 import React from "react";
+import BudgetCalculator from "../components/budget-calculator";
 
-function BudgetCalculator() {
-  return <div></div>;
+function IncomePage() {
+  return <BudgetCalculator></BudgetCalculator>;
 }
 
-export default BudgetCalculator;
+export default IncomePage;
